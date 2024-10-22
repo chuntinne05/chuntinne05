@@ -1,4 +1,4 @@
-# What 's up ! I am Trung Tin 🤓
+# What's up ! Welcome to my world 🌎!
 <!--
 **chuntinne05/chuntinne05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,9 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  ![IMG_6892](https://github.com/user-attachments/assets/cd57c4c4-a9c8-41a5-839d-f472d912aef6)
+  ![IMG_1218](https://github.com/user-attachments/assets/a43cc576-be9c-48d4-9cd6-cfee2fa2ceec)
+![IMG_0499](https://github.com/user-attachments/assets/9445acbe-91bc-4790-90dd-682285bd9c05)
+
 -->
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+<img src="https://github.com/user-attachments/assets/cd57c4c4-a9c8-41a5-839d-f472d912aef6" align="center" style="width: 30%" /> 
+<img src="https://github.com/user-attachments/assets/9445acbe-91bc-4790-90dd-682285bd9c05" align="center" style="width: 60%" />
 </div>  
   
 
@@ -30,6 +37,7 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
+<div align="center">  
 <table><tr><td valign="top" width="33%">
 
 
@@ -51,14 +59,11 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
 <br/>  
-
+</div> 
 
 ## Connect with me  
 <div align="center">
