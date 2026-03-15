@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Trung Tin, a sophomore who is learning Computer Science at HCM City University of Technology 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Advanced Software Engineering   
+- 🌱 I’m currently learning Applied Artificial Intelligence   
   
 
 - ⚡ Fun fact: iwtfu  
